@@ -8,7 +8,7 @@ Tags:
   - Sorting
 ---
 
-# 🚀 _Day 3. Find All Triplets with Zero Sum_ 🧠
+# 🚀 _Day 44. Find All Triplets with Zero Sum_ 🧠
 
 
 The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/find-all-triplets-with-zero-sum)
